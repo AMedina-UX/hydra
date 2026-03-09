@@ -12,7 +12,7 @@ export default function HeroSection() {
             <div className="flex flex-col lg:flex-row items-center justify-between gap-16 lg:gap-8">
                 {/* Left Content */}
                 <div className="flex-1 text-center lg:text-left z-10">
-                    <h1 className="text-white text-[2rem] md:text-[3.25rem] lg:text-[3rem] font-bold leading-tight mb-8">
+                    <h1 className="text-white text-[4rem] md:text-[3.25rem] lg:text-[3rem] font-bold leading-tight mb-8">
                         <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#c0b7e8] to-[#8176af]">
                             Dive
                         </span>{" "}
